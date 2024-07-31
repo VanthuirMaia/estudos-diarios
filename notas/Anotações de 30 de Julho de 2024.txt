@@ -6,6 +6,7 @@
 	- Funções com Retorno
 	- Funções com parâmetro
 	- Funções com parâmetro padrão
+	- Documentando Funções com Docstrings
 
 ## Recursos utilizados
 
