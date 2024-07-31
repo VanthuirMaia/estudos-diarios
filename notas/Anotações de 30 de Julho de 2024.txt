@@ -8,13 +8,17 @@
 	- Funções com parâmetro padrão
 	- Documentando Funções com Docstrings
 
+- Linguagem SQL para Análise de Dados.
+	- Apelidos (AS)
+
 ## Recursos utilizados
 
 - [Curso de Python](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/learn/lecture/11892850#overview).
 - [Documentação do Python](https://docs.python.org/pt-br/3/library/functions.html).
 - [Artigo sobre Funções](https://medium.com/luizalabs/fun%C3%A7%C3%B5es-em-python-entendendo-par%C3%A2metros-argumentos-args-e-kwargs-4291b1f817f6).
+- [Curso de SQL] (https://www.udemy.com/course/curso-completo-sql-para-analise-de-dados/learn/lecture/36512684#overview)
 
 ## Reflexões
 
 - Hoje foi um dia produtivo!
-- Preciso oranizar melhor meu tempo.
+- Preciso organizar melhor meu tempo.
