@@ -1,0 +1,19 @@
+# Anotações de 30 de Julho de 2024
+
+## O que aprendi hoje
+
+- Conceitos básicos de Python.
+	- Funções com Retorno
+	- Funções com parâmetro
+	- Funções com parâmetro padrão
+
+## Recursos utilizados
+
+- [Curso de Python](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/learn/lecture/11892850#overview).
+- [Documentação do Python](https://docs.python.org/pt-br/3/library/functions.html).
+- [Artigo sobre Funções](https://medium.com/luizalabs/fun%C3%A7%C3%B5es-em-python-entendendo-par%C3%A2metros-argumentos-args-e-kwargs-4291b1f817f6).
+
+## Reflexões
+
+- Hoje foi um dia produtivo!
+- Preciso oranizar melhor meu tempo.
