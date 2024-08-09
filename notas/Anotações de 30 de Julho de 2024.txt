@@ -22,3 +22,10 @@
 
 - Hoje foi um dia produtivo!
 - Preciso organizar melhor meu tempo.
+
+
+# Anotações de 09 de Agosto de 2024
+- Conceitos básicos Django.
+	- Criando um projeto web
+	- Separando as páginas
+	
