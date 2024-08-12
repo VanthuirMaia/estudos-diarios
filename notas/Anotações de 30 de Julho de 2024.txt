@@ -29,3 +29,4 @@
 	- Criando um projeto web
 	- Separando as páginas
 	
+# Após um fds de trabalho, hoje foi dia de estudar Flutter e Django
