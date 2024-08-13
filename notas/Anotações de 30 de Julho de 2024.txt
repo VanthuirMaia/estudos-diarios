@@ -30,3 +30,7 @@
 	- Separando as páginas
 	
 # Após um fds de trabalho, hoje foi dia de estudar Flutter e Django
+
+
+# Estudando POO - Programação Oreintada a objetos
+	Parei no vídeo: 31
