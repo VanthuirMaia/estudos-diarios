@@ -2,6 +2,7 @@
 
 # Anotações de 30 de Julho de 2024
 
+<<<<<<< HEAD
 ## O que aprendi hoje
 
 - Conceitos básicos de Python.
@@ -79,3 +80,11 @@
 
 # Estudando POO - Programação Oreintada a objetos
 	Parei no vídeo: 32
+=======
+Nova atualização em 13/08/2024
+    Estudando Django - POO
+
+Nova Atualização em 14/08/2024
+    Finalizando POO
+    Iniciando Django Rest Api Framework 
+>>>>>>> 4c10e6dc038d8ec03d8a82a48c7ea43067967cf3
