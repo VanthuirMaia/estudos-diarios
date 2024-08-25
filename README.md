@@ -86,3 +86,9 @@
 		Herança 
 		Importando módulos
 		Revisão de protocolos HTTP
+
+# Anotações 25/08/2024
+	# Estudando POO - Programação Orientada a Objetos
+		# Geek University
+			Tipos de Paradigma (Estruturada, Funcional, POO)
+			
