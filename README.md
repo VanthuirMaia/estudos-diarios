@@ -92,3 +92,7 @@
 		# Geek University
 			Tipos de Paradigma (Estruturada, Funcional, POO)
 			Conteúdo: Classes
+			Conteúdo: Atributos
+				Atributos de Instância
+				Atributos de classe
+				Atributos Dinâmicos
