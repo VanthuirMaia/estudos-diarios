@@ -96,3 +96,6 @@
 				Atributos de Instância
 				Atributos de classe
 				Atributos Dinâmicos
+
+# Anotações 03/09/2024
+	# Reiniciando o curso de Django
