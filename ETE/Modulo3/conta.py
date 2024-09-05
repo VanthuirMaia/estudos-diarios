@@ -10,16 +10,26 @@ class Conta:
     def saldo(self):
         return self.__saldo
     
-    def depositar(self, valor=float):
+    def depositar(self, valor: float):
         self.__saldo += valor
     
     def extrato(self):
-        resumo = f'Agência:{self.AGENCIA}\n'
-        resumo += f'Número:{self.__numero}\n'
-        resumo += f'Saldo R$:{self.saldo()}\n'
+        resumo = f'Agência: {self.AGENCIA}\n'
+        resumo += f'Número: {self.__numero}\n'
+        resumo += f'Saldo R$: {self.saldo()}\n'
         return resumo
 
+    # Método saque corrigido e desaninhado
+    def saque(self, valor: float):
+        if valor <= self.__saldo:
+            self.__saldo -= valor
+            return True
+        else:
+            print('Saldo insuficiente')
+            return False
+
+# Exemplo de uso da classe Conta
 conta = Conta()
-print(conta.AGENCIA )
+print(conta.AGENCIA)
 conta.depositar(105)
 print(conta.extrato())

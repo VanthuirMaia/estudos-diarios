@@ -12,8 +12,15 @@ class ContaPoupanca(Conta):
         resumo += f'Cpf:{self.__cpf}\n'
         return resumo
     
-    def saque(self,valor=float):
-        print(super().saldo())
+    def saque(self,valor: float):
+        if super().saldo() >= valor:
+            super().saque(valor)
+            return True
+        else:
+            return False
+
 
 conta = ContaPoupanca('Adjailson','12345678901')
+conta.depositar(30)
+print(conta.saque(100))
 print(conta.extrato())
