@@ -99,3 +99,6 @@
 
 # Anotações 03/09/2024
 	# Reiniciando o curso de Django
+
+# Anotações 04/09/2024
+	#ETE - Funções
