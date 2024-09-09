@@ -7,3 +7,6 @@ class Conexao:
 
     def conect(self):
         return self.__conn
+    
+    def fechar(self):
+        self.__conn.close()
