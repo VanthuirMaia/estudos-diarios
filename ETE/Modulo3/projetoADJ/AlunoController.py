@@ -20,4 +20,5 @@ class AlunoController(Conexao):
         ''')
         self.fechar()
 
-AlunoController()
+    def inserir(self,matricula,nome,email):
+        self.__conn.execute("INSERT INTO aluno (matricula, nome, email) VALUE (?, ?, ?)",(matricula,nome,email))
