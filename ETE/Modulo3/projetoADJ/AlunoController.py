@@ -1,5 +1,5 @@
 from Conexao import Conexao
-
+from AlunoModel import AlunoModel
 
 class AlunoController(Conexao):
 
@@ -20,5 +20,5 @@ class AlunoController(Conexao):
         ''')
         self.fechar()
 
-    def inserir(self,matricula,nome,email):
-        self.__conn.execute("INSERT INTO aluno (matricula, nome, email) VALUE (?, ?, ?)",(matricula,nome,email))
+    def inserir(self,obj:AlunoModel):
+        self.__conn.execute("INSERT INTO aluno (matricula, nome, email) VALUE (?, ?, ?)",(obj.getMatricula(),obj.getNome(),obj.getEmail(),))
