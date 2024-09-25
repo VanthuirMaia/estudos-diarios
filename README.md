@@ -102,3 +102,10 @@
 
 # Anotações 04/09/2024
 	#ETE - Funções
+
+# Anotações 25/09/2024
+	# Iniciando treinamento de Delphi
+		Criando um Sistema de vendas
+			* Tela principal
+			* Menu
+			* Footer
