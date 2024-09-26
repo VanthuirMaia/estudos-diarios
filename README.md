@@ -109,3 +109,9 @@
 			* Tela principal
 			* Menu
 			* Footer
+
+# Anotações 26/09/2024
+	# Iniciando a construção do Dashboar Miroute
+		Criando o projeto Django - Miroute
+		Criando a rota e templates Dashboard
+		Utilizando Bootstrap
