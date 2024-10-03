@@ -115,3 +115,8 @@
 		Criando o projeto Django - Miroute
 		Criando a rota e templates Dashboard
 		Utilizando Bootstrap
+
+# Anotações 02/10/2024
+	# Reiniciando os estudos de DRF
+		
+		
