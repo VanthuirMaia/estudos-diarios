@@ -118,5 +118,12 @@
 
 # Anotações 02/10/2024
 	# Reiniciando os estudos de DRF
+
+
+# Anotações 02/10/2024
+	# Miroute
+		Hoje foi dia de trabalhar no Miroute. Desenvolvi a tela adm principal, com Navbar, Sections de Cards de links, Dashboard, Mapa e Seção de produtos.
+		Foi um grane desafio, fazer tudo isso em tão pouco tempo, mas o resultado foi satisfatório!!!
+
 		
 		
