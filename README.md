@@ -125,5 +125,13 @@
 		Hoje foi dia de trabalhar no Miroute. Desenvolvi a tela adm principal, com Navbar, Sections de Cards de links, Dashboard, Mapa e Seção de produtos.
 		Foi um grane desafio, fazer tudo isso em tão pouco tempo, mas o resultado foi satisfatório!!!
 
+
+# Anotações 01/01/2025
+
+Iniciando o projeto 365 dias programando
+
+Hoje comecei a ver um curso sobre Docker.
+Iniciei um projeto pessoal de uma aplicação para automatizar envios de mensagens via whatsapp.
+Me matriculei em um curso sobre DevOps e AWS.
 		
 		
