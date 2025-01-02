@@ -133,5 +133,11 @@ Iniciando o projeto 365 dias programando
 Hoje comecei a ver um curso sobre Docker.
 Iniciei um projeto pessoal de uma aplicação para automatizar envios de mensagens via whatsapp.
 Me matriculei em um curso sobre DevOps e AWS.
+
+# Anotações 02/01/2025
+
+Continuando o curso de Docker, identifiquei possíveis incosistências nas tecnologias escolhidas para o projeto WhatsPlus.
+Vou avaliar a possibilidade de alterar as tecnologias... Laravel ou Spring
+Ja em busca de um curso sobre!!!
 		
 		
