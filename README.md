@@ -140,4 +140,8 @@ Continuando o curso de Docker, identifiquei possíveis incosistências nas tecno
 Vou avaliar a possibilidade de alterar as tecnologias... Laravel ou Spring
 Ja em busca de um curso sobre!!!
 		
-		
+# Anotações 03/01/2025
+
+Até agora, sucesso nos estudos em 2025. Apesar da viagem de + 600 km, + de 10hs dirigindo, ainda deu tempo de ver o curso de Docker, ao menos superficial.
+Consegui entender um pouco sobre Mapeamento de portas, attach, exec...
+Ainda ta no início, mas ja consigo começar a entenbder os conceitos.
