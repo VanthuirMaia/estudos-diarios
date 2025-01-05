@@ -163,4 +163,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	* Iniciando If / Else
 	* Operadores de comparação
+	* Desafio de criação de uma lógica para verificar média de alunos usando If e Else, incrementei um pouco mais e coloquei também um Else If.
+				Desafio realizado com sucesso
+
+# Anotações 05/01/2025
+	Dia pouco produtivo, mas ainda possível de estudar!!!
+		Vi alguns conteúdos sobre MicroSaas e também estudei Inglês.
+		#Seguimos
 	
