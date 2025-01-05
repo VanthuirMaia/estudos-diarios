@@ -144,4 +144,13 @@ Ja em busca de um curso sobre!!!
 
 Até agora, sucesso nos estudos em 2025. Apesar da viagem de + 600 km, + de 10hs dirigindo, ainda deu tempo de ver o curso de Docker, ao menos superficial.
 Consegui entender um pouco sobre Mapeamento de portas, attach, exec...
-Ainda ta no início, mas ja consigo começar a entenbder os conceitos.
+Ainda ta no início, mas ja consigo começar a entender os conceitos.
+
+# Anotações 04/01/2025
+
+Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção JavaScript.
+	* Aprendendo sobre a precedência de execução (Citado o DOM)
+	* Comentários em códigos
+	* Variáveis (tipos, regras para declaração)
+	* Comandos de visualização (alert, document.write, console.log)
+	* Concatenação
