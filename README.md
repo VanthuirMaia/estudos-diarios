@@ -155,3 +155,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	* Comandos de visualização (alert, document.write, console.log)
 	* Concatenação
 	* Valores "Null" e "Undefined"
+	* Alterando valores das variáveis
+
+	*Foi proposto um desafio, para serem declaradas 3 variaveis, mostradas através de um document.write, depois disso serem alteradas usando lógica. 
+				
+				Desafio realizado com sucesso
+
+	
