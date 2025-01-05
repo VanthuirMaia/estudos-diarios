@@ -154,3 +154,4 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	* Variáveis (tipos, regras para declaração)
 	* Comandos de visualização (alert, document.write, console.log)
 	* Concatenação
+	* Valores "Null" e "Undefined"
