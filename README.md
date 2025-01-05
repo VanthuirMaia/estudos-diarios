@@ -161,4 +161,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				
 				Desafio realizado com sucesso
 
+	* Iniciando If / Else
+	* Operadores de comparação
 	
