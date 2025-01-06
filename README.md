@@ -171,3 +171,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Vi alguns conteúdos sobre MicroSaas e também estudei Inglês.
 		#Seguimos
 	
+# Anotações 06/01/2025
+	Iniciando os estuds de hoje, com a live sobre DevOps e Cloud.
+		Conceitos interessantes que eu ja pretendia aprender
