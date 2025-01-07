@@ -186,5 +186,13 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			# Server Side Rendering (SSR) - NextJS
 		GraphQL
 			Diferenças entre REST API x GraphQL
+		GraphQL Client
+			Bibliotecas
+				FetchQL
+				GraphQL-request
+				uRQL
+				RelayModern
+				Apollo Client
+
  
 		
