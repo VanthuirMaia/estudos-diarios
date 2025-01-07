@@ -172,5 +172,19 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		#Seguimos
 	
 # Anotações 06/01/2025
-	Iniciando os estuds de hoje, com a live sobre DevOps e Cloud.
+	Iniciando os estudos de hoje, com a live sobre DevOps e Cloud.
 		Conceitos interessantes que eu ja pretendia aprender
+	Segunda parte dos estudos de  hoje, iniciei um curso avançado de React. Pretendo usar em meu projeto WhatsPlus, por isso a escolha por essa stack. 
+		NextJS
+			* SSR (Renderização no Servidor (Server Side Rendering))
+			* SSG (Geração de Estáticos (Static Site Generation))
+			* CSS-in-JS (Styled-jsx, Styled Components, Emotion, etc)
+			* Zero Configuration (rotas, hot reloading, code splitting...)
+		Tipos de aplicação
+			# Static Site (HTML/CSS/JS) - GatsbyJS, Hexo
+			# Client Side Rendering (Single Page Application - SPA) - Create React APP
+			# Server Side Rendering (SSR) - NextJS
+		GraphQL
+			Diferenças entre REST API x GraphQL
+ 
+		
