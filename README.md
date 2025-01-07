@@ -194,5 +194,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				RelayModern
 				Apollo Client
 
- 
+# Anotações 07/01/2025
+	WSL / Docker e VSCode (Imersão em DevOps e Cloud)
 		
