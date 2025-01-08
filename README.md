@@ -196,4 +196,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 # Anotações 07/01/2025
 	WSL / Docker e VSCode (Imersão em DevOps e Cloud)
+
+# Anotações 08/01/2025
+	Hoje resolvi voltar ao começo. Repensar minha stack, e o que eu quero para o futuro. 
+	Voltando ao curso de Python, do básico ao avançado - Geek University
 		
