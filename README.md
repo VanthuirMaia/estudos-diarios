@@ -209,3 +209,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Entendendo o parâmetro **kwargs (comparado a um DICIONARIO)
 			- Desempacotador (** ) 
 		Entendendo a importância de manter a ordem dos parãmetros na declaração
+
+	Intercalando com o curso de desenvolvimento Web. A partir de agora, estudando JS
+		Trabalhando o casting de dados
