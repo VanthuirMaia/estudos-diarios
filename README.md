@@ -207,4 +207,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Entendendo o parâmetro *args (comparado a uma LISTA)
 			- Desempacotador (* ) 
 		Entendendo o parâmetro **kwargs (comparado a um DICIONARIO)
+			- Desempacotador (** ) 
 		Entendendo a importância de manter a ordem dos parãmetros na declaração
