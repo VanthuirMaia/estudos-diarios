@@ -212,3 +212,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	Intercalando com o curso de desenvolvimento Web. A partir de agora, estudando JS
 		Trabalhando o casting de dados
+		Operadores Logicos
+
+	Atividade de uso dos operadores lógicos realizada com sucesso, na primeira tentativa.
