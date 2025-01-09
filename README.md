@@ -200,4 +200,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 # Anotações 08/01/2025
 	Hoje resolvi voltar ao começo. Repensar minha stack, e o que eu quero para o futuro. 
 	Voltando ao curso de Python, do básico ao avançado - Geek University
-		
+		Relembrando tópicos importantes de funções.
+			- Funções com parâmetro
+			- Funções com parãmetro padrão
+		Documentando funções com docstrings
+		Entendendo o parâmetro *args (comparado a uma LISTA)
+			- Desempacotador (* ) 
+		Entendendo o parâmetro **kwargs (comparado a um DICIONARIO)
+		Entendendo a importância de manter a ordem dos parãmetros na declaração
