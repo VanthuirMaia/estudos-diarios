@@ -215,3 +215,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Operadores Logicos
 
 	Atividade de uso dos operadores lógicos realizada com sucesso, na primeira tentativa.
+
+	# Anotações 09/01/2025
+		Introdução ao Power BI psrs Business Intenligence e Data Science
