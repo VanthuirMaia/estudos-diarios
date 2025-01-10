@@ -218,3 +218,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	# Anotações 09/01/2025
 		Introdução ao Power BI psrs Business Intenligence e Data Science
+
+	# Anotações 10/01/2025
+		Power BI
+			Power Query
+			Visuais
+			Opções e Configurações
+		Criando um dashboard inicial com um dataset de dados de vendas
+			Incrível como o PowerBI facilita a vida dos analistas. Continuarei me especializando, pra quando a oportunidade aparecer, estar pronto.
