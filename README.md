@@ -226,3 +226,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Opções e Configurações
 		Criando um dashboard inicial com um dataset de dados de vendas
 			Incrível como o PowerBI facilita a vida dos analistas. Continuarei me especializando, pra quando a oportunidade aparecer, estar pronto.
+
+	# Anotações 11/01/2025
+		Power BI
+			Iniciando a Modelagem de dados
+				Formas de aplicação e benefícios
