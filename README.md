@@ -231,3 +231,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Iniciando a Modelagem de dados
 				Formas de aplicação e benefícios
+			DAX
+			Linguagem "M"
+		Criando mais um Dashboard interativo, com métricas de Vendas, Custo, Margem de Lucro e KPI
+
