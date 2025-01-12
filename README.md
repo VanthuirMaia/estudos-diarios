@@ -235,3 +235,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Linguagem "M"
 		Criando mais um Dashboard interativo, com métricas de Vendas, Custo, Margem de Lucro e KPI
 
+	# Anotações 12/01/2025
+		Revisão do conteúdo estudado durante a semana
