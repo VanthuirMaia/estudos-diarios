@@ -237,3 +237,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	# Anotações 12/01/2025
 		Revisão do conteúdo estudado durante a semana
+	
+	# Anotações 13/01/2025
+		Curso de Python
+			List Comprehension
+			Listas Aninhadas
+			Dictionary Comprehension
+			Set Comprehension
