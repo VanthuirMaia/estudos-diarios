@@ -244,3 +244,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Listas Aninhadas
 			Dictionary Comprehension
 			Set Comprehension
+
+	# Anotações 14/01/2025
+		Power BI
+			Ralizando análises na área de marketing
+				Segmentação
+				Outliers
+				Medidas
+				Árvore Hierárquica
