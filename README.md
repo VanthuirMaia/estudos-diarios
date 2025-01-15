@@ -252,3 +252,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Outliers
 				Medidas
 				Árvore Hierárquica
+
+	# Anotações 15/01/2025
+		Power BI
+			Projeto de Análise de Trabalho de Marketing
+				Paginação
+				Tabelas
+				Matriz
