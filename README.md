@@ -259,3 +259,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Paginação
 				Tabelas
 				Matriz
+		Python
+			Expressões Lambdas
+				Bônus: Usando strip, title, Split, lower, upper, sort
