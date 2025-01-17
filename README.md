@@ -262,3 +262,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Python
 			Expressões Lambdas
 				Bônus: Usando strip, title, Split, lower, upper, sort
+
+	# Anotações 16/01/2025
+		Power BI
+			Finalizando Projeto de Análise de Trabalho de Marketing
+				Formatando e alinhando detalhes de exibição
