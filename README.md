@@ -267,3 +267,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Finalizando Projeto de Análise de Trabalho de Marketing
 				Formatando e alinhando detalhes de exibição
+				Narrativa Inteligente
+				Principais Influenciadores
+
