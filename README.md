@@ -282,4 +282,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 17/01/2025
 		SQL
 			Hoje o estudo foi sobre SQL, assistindo as aulas do curso de SQL para Análise de dados
-				Comandos de restrição
+				Subconjuntos da linguagem
+				Dialetos
+				Iniciando no Google BigQuery
+				Comandos de seleção
+				
