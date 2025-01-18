@@ -275,3 +275,4 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Finalizando Projeto de Análise de Trabalho de Marketing
 				Faltando apenas criar o índice
 		Python para Análise de dados
+			Treinando os fundamentos de Python, criando um jogo simples (Forca)
