@@ -279,3 +279,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Treinando os fundamentos de Python, criando um jogo v2 simples com caracters com imagem (Forca)
 			Programação Orientada a Objetos
 
+	# Anotações 17/01/2025
+		SQL
+			Hoje o estudo foi sobre SQL, assistindo as aulas do curso de SQL para Análise de dados
+				Comandos de restrição
