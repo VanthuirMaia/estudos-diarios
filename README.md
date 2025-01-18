@@ -270,3 +270,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Narrativa Inteligente
 				Principais Influenciadores
 
+	# Anotações 17/01/2025
+		Power BI
+			Finalizando Projeto de Análise de Trabalho de Marketing
+				Faltando apenas criar o índice
+		Python para Análise de dados
