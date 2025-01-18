@@ -276,3 +276,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Faltando apenas criar o índice
 		Python para Análise de dados
 			Treinando os fundamentos de Python, criando um jogo simples (Forca)
+			Treinando os fundamentos de Python, criando um jogo v2 simples com caracters com imagem (Forca)
+			Programação Orientada a Objetos
+
