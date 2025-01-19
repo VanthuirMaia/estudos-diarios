@@ -279,7 +279,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Treinando os fundamentos de Python, criando um jogo v2 simples com caracters com imagem (Forca)
 			Programação Orientada a Objetos
 
-	# Anotações 17/01/2025
+	# Anotações 18/01/2025
 		SQL
 			Hoje o estudo foi sobre SQL, assistindo as aulas do curso de SQL para Análise de dados
 				Subconjuntos da linguagem
@@ -287,3 +287,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Iniciando no Google BigQuery
 				Comandos de seleção
 				
+	# Anotações 19/01/2025
+		Revisão do conteúdo estudado durante a semana
+			Python, PowerBI, SQL e Python para Análise de dados
