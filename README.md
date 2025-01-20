@@ -290,3 +290,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 19/01/2025
 		Revisão do conteúdo estudado durante a semana
 			Python, PowerBI, SQL e Python para Análise de dados
+
+	# Anotações 20/01/2025
+		Power BI
+			Criação de índice
+				Formatação final do relatório
