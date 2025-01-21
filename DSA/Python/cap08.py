@@ -33,8 +33,6 @@ Livro2.titulo
 
 Livro2.imprime("O Poder do Hábito", 77886611)
 
-"""
-
 class Algoritmo():
 
     def __init__(self, tipo_algo):
@@ -47,3 +45,5 @@ algo2 = Algoritmo(tipo_algo='Deep Learning')
 # Atributos da classe
 algo1.tipo
 algo2.tipo
+
+"""

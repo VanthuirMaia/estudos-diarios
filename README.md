@@ -299,4 +299,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Class
 				Atributos
 				Objetos
-				
+				Manipulando atributos
+					hasattr / setattr / getattr / delattr
