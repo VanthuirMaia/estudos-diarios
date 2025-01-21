@@ -295,3 +295,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Criação de índice
 				Formatação final do relatório
+		Javascript
+			Switch, Operadores Aritméticos, Precedência de execução
+			Funções
+				Flexibilidade de parâmetros
+				Escopo de variáveis
+				Funções anônimas e wrapper
+				callback
