@@ -295,4 +295,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Criação de índice
 				Formatação final do relatório
-
+		Python para Análise de dados
+			Class
+				Atributos
+				Objetos
+				
