@@ -301,3 +301,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Objetos
 				Manipulando atributos
 					hasattr / setattr / getattr / delattr
+
+	# Anotações 20/01/2025
+		Python - Fundamentos
+			Map
