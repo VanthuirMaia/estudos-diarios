@@ -310,4 +310,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Função mean
 			Removendo dados faltantes com Filter
 			Atividade (Analisar ususarios e tweets)
-			Reduce
+			Reduce (Melhor usar um loop "for ou While")
+			Any e All
