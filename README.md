@@ -305,3 +305,9 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 20/01/2025
 		Python - Fundamentos
 			Map
+			Filter
+			Biblioteca (statistcs)
+				Função mean
+			Removendo dados faltantes com Filter
+			Atividade (Analisar ususarios e tweets)
+			Reduce
