@@ -302,7 +302,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Manipulando atributos
 					hasattr / setattr / getattr / delattr
 
-	# Anotações 20/01/2025
+	# Anotações 21/01/2025
 		Python - Fundamentos
 			Map
 			Filter
@@ -312,3 +312,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Atividade (Analisar ususarios e tweets)
 			Reduce (Melhor usar um loop "for ou While")
 			Any e All
+
+	# Anotações 22/01/2025
+		Python - Fundamentos
+			Generators Expression
+				Diferenças entres ele e List, Set e Dict Comprehension (Ocupa menos espaço de memória)
+			Sorted
+			Min e Max
+			Reversed
