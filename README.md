@@ -314,9 +314,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Any e All
 
 	# Anotações 22/01/2025
-		Python - Fundamentos
+		Python - Fundamentos (Funções biult-in)
 			Generators Expression
 				Diferenças entres ele e List, Set e Dict Comprehension (Ocupa menos espaço de memória)
 			Sorted
 			Min e Max
 			Reversed
+			Len, Abs, Sum e Round
+			Zip
