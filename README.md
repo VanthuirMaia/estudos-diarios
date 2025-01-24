@@ -314,7 +314,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Any e All
 
 	# Anotações 22/01/2025
-		Python - Fundamentos (Funções beault-in)
+		Python - Fundamentos (Funções Integradas)
 			Generators Expression
 				Diferenças entres ele e List, Set e Dict Comprehension (Ocupa menos espaço de memória)
 			Sorted
@@ -322,3 +322,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Reversed
 			Len, Abs, Sum e Round
 			Zip
+	# Anotações 22/01/2025
+		Power BI
+			Iniciando projeto de RH
