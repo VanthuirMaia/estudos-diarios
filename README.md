@@ -322,6 +322,9 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Reversed
 			Len, Abs, Sum e Round
 			Zip
-	# Anotações 22/01/2025
+	# Anotações 23/01/2025
 		Power BI
 			Iniciando projeto de RH
+	# Anotações 23/01/2025
+		Power BI
+			Continução do projeto RH
