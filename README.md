@@ -325,6 +325,13 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 23/01/2025
 		Power BI
 			Iniciando projeto de RH
-	# Anotações 23/01/2025
+	# Anotações 24/01/2025
 		Power BI
 			Continução do projeto RH
+	# Anotações 25/01/2025
+		Power BI (Final de semana complicado pra estudar, tempo, cansaço, mas fiz o meu melhor)
+			Projeto RH
+				Medidas DAX COUNTROWS / AVERAGE / DIVIDE
+				Coluna condicional
+				Medidas com DAX a partir da coluna condicional
+				
