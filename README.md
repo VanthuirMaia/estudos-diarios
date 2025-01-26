@@ -334,4 +334,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Medidas DAX COUNTROWS / AVERAGE / DIVIDE
 				Coluna condicional
 				Medidas com DAX a partir da coluna condicional
+	# Anotações 25/01/2025
+		Power BI
+			Continução do projeto RH
 				
