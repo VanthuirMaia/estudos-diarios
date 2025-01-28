@@ -342,4 +342,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Finalização do projeto RH
 				Visualmente, com medidas formatadas e salvas, Dashboard pronto para o uso.
-				
+		Python - Debugando e Tratando erros
+			Erros mais comuns
+			Levantamento de erros usando "Raise"
