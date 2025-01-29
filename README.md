@@ -345,3 +345,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Python - Debugando e Tratando erros
 			Erros mais comuns
 			Levantamento de erros usando "Raise"
+
+	# Anotações 28/01/2025
+		Power BI
+			Iniciando Projeto Logística
+				Avaliando Dashboard e sugerindo possíveis alterações e correções.
