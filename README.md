@@ -350,3 +350,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Iniciando Projeto Logística
 				Avaliando Dashboard e sugerindo possíveis alterações e correções.
+
+	# Anotações 29/01/2025
+		Power BI
+			Finalizado Projeto Logística
+				Correções no Dashboard realizadas (Alterado modelos, graficos e organização dos dados)
