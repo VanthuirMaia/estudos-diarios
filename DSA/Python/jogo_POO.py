@@ -92,36 +92,36 @@ class Hangman:
         
         return True
     
-def hangman_over(self):
+    def hangman_over(self):
 
-    return self.hangman_won() or (len(self.letras_erradas) == 6)
+        return self.hangman_won() or (len(self.letras_erradas) == 6)
 
-def hangman_won(self):
-    if '_' not in self.hide_palavra():
-        return True
-    return False
+    def hangman_won(self):
+        if '_' not in self.hide_palavra():
+            return True
+        return False
 
-def hide_palavra(self):
-    rtn = ''
+    def hide_palavra(self):
+        rtn = ''
 
-    for letra in self.palavra:
-        if letra not in self.letras_escolhidas:
-            rtn += '_'
-        else:
-            rtn += letra
-    return rtn
+        for letra in self.palavra:
+            if letra not in self.letras_escolhidas:
+                rtn += '_'
+            else:
+                rtn += letra
+        return rtn
 
-def print_game_status(self):
-    print(board[len(self.letras_erradas)])
-    print('\nPalavra: ' + self.hide_palavra())
-    print('\nLetras erradas: ',)
-    for letra in self.letras_erradas:
-        print(letra,)
-    print()
-    print('Letras corretas: ',)
-    for letra in self.letras_escolhidas:
-        print(letra,)
-    print()
+    def print_game_status(self):
+        print(board[len(self.letras_erradas)])
+        print('\nPalavra: ' + self.hide_palavra())
+        print('\nLetras erradas: ',)
+        for letra in self.letras_erradas:
+            print(letra,)
+        print()
+        print('Letras corretas: ',)
+        for letra in self.letras_escolhidas:
+            print(letra,)
+        print()
 
 def rand_palavra():
     palavras = ['banana', 'abacate', 'uva', 'morango', 'laranja']
@@ -137,3 +137,22 @@ def main():
 
     while not game.hangman_over():
         
+        game.print_game_status()
+        
+        user_input = input('\nDigite uma letra: ')
+
+        game.guess(user_input)
+
+    game.print_game_status()
+
+    if game.hangman_won():
+        print ('\nParabéns! Você venceu!!')
+    
+    else:
+        print('\nGame Over! Você perdeu ')
+        print('A palavra certa é ' + game.palavra)
+
+    print ('\nFoi bom jogar com vc!\n')
+
+if __name__ == "__main__":
+    main()
