@@ -363,3 +363,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				set attr
 				get attr
 				del attr
+			Criando um jogo usando POO (Forca)
+			NUMPY
+				Indexação
