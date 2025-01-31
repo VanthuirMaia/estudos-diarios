@@ -355,3 +355,11 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Finalizado Projeto Logística
 				Correções no Dashboard realizadas (Alterado modelos, graficos e organização dos dados)
+
+	# Anotações 30/01/2025
+		Python para Análise de dados
+			Manipulando atributos
+				has attr
+				set attr
+				get attr
+				del attr
