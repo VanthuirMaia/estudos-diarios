@@ -366,3 +366,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Criando um jogo usando POO (Forca)
 			NUMPY
 				Indexação
+
+	# Anotações 31/01/2025
+		Python para Análise de dados
+			Numpy
+				Funções Numpy

@@ -9,3 +9,4 @@ print(arr1[indices])
 mask = (arr1 % 2 == 0)
 
 print(arr1[mask])
+
