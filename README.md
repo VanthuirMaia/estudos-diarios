@@ -371,3 +371,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Python para Análise de dados
 			Numpy
 				Funções Numpy
+				Manipulando Matrizes
+				Manipulando Objetos de 3 e 4 dimensões
+				Manipulando Arquivos
