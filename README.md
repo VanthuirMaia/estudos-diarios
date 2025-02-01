@@ -374,3 +374,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Manipulando Matrizes
 				Manipulando Objetos de 3 e 4 dimensões
 				Manipulando Arquivos
+
+	# Anotações 31/01/2025
+		Python para Análise de dados
+			Numpy
+				Manipulando Arquivos
