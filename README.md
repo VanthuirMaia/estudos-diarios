@@ -379,3 +379,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Python para Análise de dados
 			Numpy
 				Manipulando Arquivos
+
+	# Anotações 29/01/2025
+		Power BI
+			Iniciando Projeto da Área de Finanças Empresarial
