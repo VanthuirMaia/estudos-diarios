@@ -375,11 +375,20 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Manipulando Objetos de 3 e 4 dimensões
 				Manipulando Arquivos
 
-	# Anotações 31/01/2025
+	# Anotações 01/02/2025
 		Python para Análise de dados
 			Numpy
 				Manipulando Arquivos
 
-	# Anotações 29/01/2025
+	# Anotações 02/02/2025
 		Power BI
 			Iniciando Projeto da Área de Finanças Empresarial
+	
+	# Anotações 02/02/2025
+		Power BI
+			Projeto Finanças
+				Carregando dados XLS e analisando erros
+				Realizando Pivot da tabela
+				Criando Hierarquia de Datas
+				Criando medidas com indicadores
+			Projeto Finalizado
