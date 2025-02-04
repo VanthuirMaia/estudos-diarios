@@ -384,7 +384,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI
 			Iniciando Projeto da Área de Finanças Empresarial
 	
-	# Anotações 02/02/2025
+	# Anotações 03/02/2025
 		Power BI
 			Projeto Finanças
 				Carregando dados XLS e analisando erros
@@ -392,3 +392,18 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Criando Hierarquia de Datas
 				Criando medidas com indicadores
 			Projeto Finalizado
+
+	# Anotações 04/02/2025
+		Python para Análise de dados
+			Manipulação de arquivos usando o Numpy
+			Manipulando um arquivo csv, removendo linhas e colunas desnecessárias (Usecols, skiprows)
+			Iniciando em Análise Estátistica
+				Média (mean)
+				Desvio Padrão (std)
+				Variância (var)
+			Operações Matemáticas
+				Soma (sum)
+				Soma Acumulada (cumsum)
+				Produto (prod)
+				Multiplicação (dot) ou simplismente "@"
+				
