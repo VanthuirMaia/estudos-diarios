@@ -406,4 +406,9 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Soma Acumulada (cumsum)
 				Produto (prod)
 				Multiplicação (dot) ou simplismente "@"
+		Flask
+			Iniciei a criação de um site para Portfolio
+				Criei do zero usando Flask, HTML, CSS e Bootstrap
+				Templates criados (Home, Projetos, Sobre e Contato)
+				Formulário de contato funcionando
 				
