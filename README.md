@@ -415,4 +415,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 05/02/2025
 		Power BI
 			Iniciando Projeto da Área Contábil
+	
+	# Anotações 06/02/2025
+		Power BI
+			Projeto da Área Contábil
 				
