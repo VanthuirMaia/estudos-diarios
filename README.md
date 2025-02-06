@@ -411,4 +411,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Criei do zero usando Flask, HTML, CSS e Bootstrap
 				Templates criados (Home, Projetos, Sobre e Contato)
 				Formulário de contato funcionando
+
+	# Anotações 05/02/2025
+		Power BI
+			Iniciando Projeto da Área Contábil
 				
