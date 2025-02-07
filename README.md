@@ -418,5 +418,13 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	
 	# Anotações 06/02/2025
 		Python para Análise de dados
-			Slicing
+			NumPy
+				Slicing
+				Flatten
+				Repeat
+				Tile
+				Copy
+			Pandas - Introdução
+				Head
+				Manipulando dados com o Pandas
 				
