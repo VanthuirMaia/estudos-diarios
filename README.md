@@ -417,6 +417,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Iniciando Projeto da Área Contábil
 	
 	# Anotações 06/02/2025
-		Power BI
-			Projeto da Área Contábil
+		Python para Análise de dados
+			Slicing
 				
