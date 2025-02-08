@@ -428,6 +428,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Head
 				Manipulando dados com o Pandas
 				
-	# Anotações 06/02/2025
+	# Anotações 07/02/2025
 		Python - Análise e Engenharia de Dados (Youtube)
 			Jornada de Dados (Luciano Galvão Filho)
+			Iniciando um Projeto de ETL com Python
+
+	# Anotações 08/02/2025
+		SQL - Workshop de SQL com Databrics
