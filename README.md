@@ -435,3 +435,4 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	# Anotações 08/02/2025
 		SQL - Workshop de SQL com Databrics
+			Comandos (Select, From, Distinct
