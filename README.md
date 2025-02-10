@@ -435,4 +435,9 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 
 	# Anotações 08/02/2025
 		SQL - Workshop de SQL com Databrics
-			Comandos (Select, From, Distinct
+			Comandos Select, From, Count, Distinct
+				Where, Limit, Order By, Min, Max, Sum, Avg
+				Group By, Having, Join (Inner, Left e Right)
+				Subquery, CTE, View e Tabelas
+	# Anotações 09/02/2025
+		Revisão do conteúdo visto durante a semana
