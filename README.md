@@ -441,3 +441,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 				Subquery, CTE, View e Tabelas
 	# Anotações 09/02/2025
 		Revisão do conteúdo visto durante a semana
+	# Anotações 10/02/2025
+		Python - Análise e Engenharia de Dados (Youtube)
+			Web Scraping com Python / AWS / Azzure
