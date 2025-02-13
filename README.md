@@ -444,5 +444,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 10/02/2025
 		Python - Análise e Engenharia de Dados (Youtube)
 			Web Scraping com Python / AWS / Azzure
-	# Anotações 10/02/2025
+	# Anotações 11/02/2025
 		Lakehouse com Arquitetura Medalhão no Databricks
+	# Anotações 12/02/2025
+		Poer BI - Retornando ao Projeto - Balanço Patrimonial
