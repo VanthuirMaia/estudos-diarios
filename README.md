@@ -450,3 +450,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Poer BI - Retornando ao Projeto - Balanço Patrimonial
 	# Anotações 13/02/2025
 		Poer BI - Finalizando Projeto - Balanço Patrimonial
+	# Anotações 14/02/2025
+		Poer BI - Finalizando Projeto - Balanço Patrimonial
