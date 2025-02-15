@@ -447,8 +447,10 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 11/02/2025
 		Lakehouse com Arquitetura Medalhão no Databricks
 	# Anotações 12/02/2025
-		Poer BI - Retornando ao Projeto - Balanço Patrimonial
+		Power BI - Retornando ao Projeto - Balanço Patrimonial
 	# Anotações 13/02/2025
-		Poer BI - Finalizando Projeto - Balanço Patrimonial
+		Power BI - Finalizando Projeto - Balanço Patrimonial
 	# Anotações 14/02/2025
-		Poer BI - Finalizando Projeto - Balanço Patrimonial
+		Power BI - Finalizando Projeto - Balanço Patrimonial
+	# Anotações 15/02/2025
+		Preditiva ai - Introdução ao Mundo dos dados
