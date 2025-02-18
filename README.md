@@ -460,4 +460,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI - Projeto Finalizado - Balanço Patrimonial
 		Storitelling com dados
 		Power BI - Projeto - Análise de Ações
+	# Anotações 18/02/2025
+		Python - SQL - Databricks
+			Criando uma ETL, acessando dados SQL e CSV, e elaborando um  Dashboard
 		
