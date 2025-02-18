@@ -459,4 +459,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 17/02/2025
 		Power BI - Projeto Finalizado - Balanço Patrimonial
 		Storitelling com dados
+		Power BI - Projeto - Análise de Ações
 		
