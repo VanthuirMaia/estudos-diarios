@@ -454,5 +454,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI - Finalizando Projeto - Balanço Patrimonial
 	# Anotações 15/02/2025
 		Preditiva ai - Introdução ao Mundo dos dados
-	# Anotações 14/02/2025
+	# Anotações 16/02/2025
 		Power BI - Projeto - Balanço Patrimonial
+	# Anotações 17/02/2025
+		Power BI - Projeto Finalizado - Balanço Patrimonial
+		
