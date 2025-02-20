@@ -463,4 +463,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 18/02/2025
 		Python - SQL - Databricks
 			Criando uma ETL, acessando dados SQL e CSV, e elaborando um  Dashboard
-		
+	# Anotações 19/02/2025
+		Desenvolvimento do Site (Portifolio) - 30% pronto
