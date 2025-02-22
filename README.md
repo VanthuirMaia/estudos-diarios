@@ -465,3 +465,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 			Criando uma ETL, acessando dados SQL e CSV, e elaborando um  Dashboard
 	# Anotações 19/02/2025
 		Desenvolvimento do Site (Portifolio) - 30% pronto
+	# Anotações 20/02/2025
+		Desenvolvimento do Site (Portifolio) - 50% pronto
+	# Anotações 21/02/2025
+		Power BI - Projeto Análise de Ações do Mercado Financeiro
