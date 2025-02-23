@@ -470,4 +470,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 21/02/2025
 		Power BI - Projeto Análise de Ações do Mercado Financeiro
 	# Anotações 22/02/2025
-		Power BI - Projeto da Especialização UFRPE - Desenvolver um Relatório Executivo com Dashboard.
+		Projeto da Especialização UFRPE - Desenvolver um Relatório Executivo com Dashboard.
+		Power BI - Tratamento de dados
