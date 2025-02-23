@@ -472,3 +472,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 22/02/2025
 		Projeto da Especialização UFRPE - Desenvolver um Relatório Executivo com Dashboard.
 		Power BI - Tratamento de dados
+	# Anotações 23/02/2025
+		Power BI - Tratamento de dados, Análise exploratória, Análise Estatística 
