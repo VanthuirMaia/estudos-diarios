@@ -474,3 +474,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Power BI - Tratamento de dados
 	# Anotações 23/02/2025
 		Power BI - Tratamento de dados, Análise exploratória, Análise Estatística 
+	# Anotações 24/02/2025
+		Power BI - Limpeza e Manipulação de Dados
