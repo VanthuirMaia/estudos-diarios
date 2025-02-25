@@ -477,3 +477,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 24/02/2025
 		Power BI - Limpeza e Manipulação de Dados
 		Power Query - Linguagem M
+	# Anotações 25/02/2025
+		Iniciando na Jornada de dados - Focando Data Engineer
+		
