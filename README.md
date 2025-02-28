@@ -481,4 +481,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Iniciando na Jornada de dados - Focando Data Engineer
 	# Anotações 26/02/2025
 		Elaborando Análise e Dashboard para o MiRoute - Commit retroativo
+	# Anotações 27/02/2025	
+		Jornada de dados - Github (Treinamento)
 		
