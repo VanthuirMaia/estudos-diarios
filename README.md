@@ -483,4 +483,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Elaborando Análise e Dashboard para o MiRoute - Commit retroativo
 	# Anotações 27/02/2025	
 		Jornada de dados - Github (Treinamento)
+	# Anotações 28/02/2025	
+		Jornada de dados - Bootcamp Python Aula 01 (Python, Git e VSCode)
 		
