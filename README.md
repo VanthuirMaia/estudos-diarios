@@ -487,4 +487,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Jornada de dados - Bootcamp Python Aula 01 (Python, Git e VSCode)
 	# Anotações 01/03/2025	
 		Jornada de dados - Bootcamp Python Aula 02 (TypeError, Type Check, Type Conversion, Try-Except e If)
+	# Anotações 02/03/2025	
+		Jornada de dados - Bootcamp Python Aula 02 (TypeError, Type Check, Type Conversion, Try-Except e If)
 		
