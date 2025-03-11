@@ -495,4 +495,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Revisão do conteúdo visto essa semana
 			Python - Funções
 			Criação de ETLL - Pipeline
-		
+	# Anotações 10/03/2025	
+		Revisão do Picth - MiRoute	
