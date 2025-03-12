@@ -499,3 +499,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Revisão do Picth - MiRoute	
 	# Anotações 11/03/2025
 		Revendo aula 09 do Bootcamp Python - Sanar dúvidas sobre decoradores
+	# Anotações 12/03/2025
+		POO - Aula 01
