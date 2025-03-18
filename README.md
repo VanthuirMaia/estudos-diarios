@@ -509,3 +509,5 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		POO - Continuação da Aula 03 - Polimorfismo
 	# Anotações 16/03/2025
 		POO - Revisão do conteúdo visto na semana
+	# Anotações 17/03/2025
+		Realizando Análise e Criaçãod e Dashboard para apresentação de Seminários
