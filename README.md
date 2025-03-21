@@ -512,4 +512,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 17/03/2025
 		Realizando Análise e Criaçãod e Dashboard para apresentação de Seminários
 	# Anotações 19/03/2025
-		Finalizando apresentação do Seminários - Pòs (Especialização TDBE - UFRPE)
+		Finalizando apresentação do Seminários - Pós (Especialização TDBE - UFRPE)
+	# Anotações 20/03/2025
+		Finalizando apresentação do Seminários - Pós (Especialização TDBE - UFRPE)
