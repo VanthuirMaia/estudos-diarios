@@ -515,3 +515,8 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Finalizando apresentação do Seminários - Pós (Especialização TDBE - UFRPE)
 	# Anotações 20/03/2025
 		Finalizando apresentação do Seminários - Pós (Especialização TDBE - UFRPE)
+	# Anotações 21/03/2025
+		Trabalhando com Desenvolvimento Web - Desenvolvendo meu portifólio em Django
+	# Anotações 22/03/2025
+		Jornada de Dados - CRUD / SQLModel
+
