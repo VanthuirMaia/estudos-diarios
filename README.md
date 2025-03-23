@@ -519,4 +519,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Trabalhando com Desenvolvimento Web - Desenvolvendo meu portifólio em Django
 	# Anotações 22/03/2025
 		Jornada de Dados - CRUD / SQLModel
+	# Anotações 23/03/2025
+		Revisão do conteúdo visto na semana
 
