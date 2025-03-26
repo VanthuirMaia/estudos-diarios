@@ -521,4 +521,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		Jornada de Dados - CRUD / SQLModel
 	# Anotações 23/03/2025
 		Revisão do conteúdo visto na semana
+	# Anotações 25/03/2025
+		AQLAlchemy
 
