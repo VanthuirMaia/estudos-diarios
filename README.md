@@ -522,5 +522,7 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 	# Anotações 23/03/2025
 		Revisão do conteúdo visto na semana
 	# Anotações 25/03/2025
-		AQLAlchemy
+		SQLAlchemy
+	# Anotações 27/03/2025
+		SQLAlchemy (Continuação)
 
