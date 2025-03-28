@@ -525,4 +525,6 @@ Reiniciando o curso de Desenvolvimento Web, basicamente reiniciando a seção Ja
 		SQLAlchemy
 	# Anotações 27/03/2025
 		SQLAlchemy (Continuação)
+	# Anotações 28/03/2025
+		CRUD - API
 
