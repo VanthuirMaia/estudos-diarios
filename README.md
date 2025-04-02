@@ -544,3 +544,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Finalizado Projeto CRUD - FastAPI
     # Anotações 01/04/2025
     	Iniciando Bootcamp SQL
+    # Anotações 02/04/2025
+    	Bootcamp SQL - 3ª aula
