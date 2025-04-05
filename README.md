@@ -548,3 +548,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Bootcamp SQL - 3ª aula
     # Anotações 03/04/2025
     	Resolvendo BUG de uma aplicação Python
+    # Anotações 02/04/2025
+    	Bootcamp SQL - 4ª aula
