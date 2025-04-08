@@ -554,3 +554,6 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Revisão SQL
     # Anotações 06/04/2025
     	Revisão SQL
+    # Anotações 07/04/2025
+    	Window Function
+    	Os últimos commit estão sendo únicos pr dia, devido ao fato dos estudos estarem centralizados no PG Admin
