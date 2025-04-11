@@ -561,3 +561,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Window Function - Revendo a aula jovamente, devido a dificuldade com os comandos.
     # Anotações 10/04/2025
     	Workshop Ai Agents
+    # Anotações 11/04/2025
+    	Projeto SQL
