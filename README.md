@@ -558,4 +558,6 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Window Function
     	Os últimos commit estão sendo únicos pr dia, devido ao fato dos estudos estarem centralizados no PG Admin
     # Anotações 07/04/2025
-    	Window Function - Rvendo a aula jovamente, devido a dificuldade com os comandos.
+    	Window Function - Revendo a aula jovamente, devido a dificuldade com os comandos.
+    # Anotações 10/04/2025
+    	Workshop Ai Agents
