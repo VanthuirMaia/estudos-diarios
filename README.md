@@ -563,3 +563,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Workshop Ai Agents
     # Anotações 11/04/2025
     	Projeto SQL - Bootcamp SQL
+    # Anotações 12/04/2025
+    	Revisão SQL
