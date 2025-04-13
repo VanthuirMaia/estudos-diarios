@@ -565,3 +565,7 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Projeto SQL - Bootcamp SQL
     # Anotações 12/04/2025
     	Revisão SQL
+    # Anotações 13/04/2025
+    	Atividade da Especialização
+    	Elaboração do Calendário oda semana
+    	Aula SQL - Jornada de dados
