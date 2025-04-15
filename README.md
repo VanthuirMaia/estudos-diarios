@@ -571,3 +571,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Aula SQL - Jornada de dados
     # Anotações 14/04/2025
     	Workshop Power BI - Jornada de Dados (Laender)
+    # Anotações 15/04/2025
+    	SQL - Jornada de dados - CTE
