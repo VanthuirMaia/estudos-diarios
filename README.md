@@ -569,3 +569,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Atividade da Especialização
     	Elaboração do Calendário oda semana
     	Aula SQL - Jornada de dados
+    # Anotações 14/04/2025
+    	Workshop Power BI - Jornada de Dados (Laender)
