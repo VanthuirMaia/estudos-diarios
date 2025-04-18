@@ -577,3 +577,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Iniciando projeto WhatsPlus
     # Anotações 17/04/2025
     	SQL - Jornada de dados
+    # Anotações 18/04/2025
+    	SQL - Jornada de dados - Procedures
