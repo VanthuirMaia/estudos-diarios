@@ -13,6 +13,15 @@ CREATE TABLE IF NOT EXISTS transactions (
     realizada_em TIMESTAMP NOT NULL DEFAULT NOW()
 );
 
+# Usando ID Aleatório sem set serial
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
+CREATE TABLE IF NOT EXISTS clients (
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    limite INTEGER NOT NULL,
+    saldo INTEGER NOT NULL
+);
+
 ######################################################
 # Adicionando Valores
 
