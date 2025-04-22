@@ -583,5 +583,3 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL - Jornada de dados - Revisão
     # Anotações 21/04/2025
     	SQL - Jornada de dados - Revisão
-    # Anotações 22/04/2025
-    	SQL - Jornada de Dados - Triggers e Functions
