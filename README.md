@@ -587,5 +587,7 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL - Jornada de dados - Triggers e Functions
     # Anotações 23/04/2025
     	SQL - Jornada de dados - Transações ACID
-    # Anotações 23/04/2025
+    # Anotações 24/04/2025
     	SQL - Jornada de dados - Transações ACID Continuação
+    # Anotações 25/04/2025
+    	IA - Refinando prompts e usando Agentes IA
