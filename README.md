@@ -591,3 +591,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL - Jornada de dados - Transações ACID Continuação
     # Anotações 25/04/2025
     	IA - Refinando prompts e usando Agentes IA
+    # Anotações 26/04/2025
+    	IA - Refinando prompts e usando Agentes IA
