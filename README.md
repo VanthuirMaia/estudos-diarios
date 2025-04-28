@@ -593,3 +593,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	IA - Refinando prompts e usando Agentes IA
     # Anotações 26/04/2025
     	IA - Refinando prompts e usando Agentes IA
+    # Anotações 27/04/2025
+    	Revisão do conteúdo visto durante a semana
