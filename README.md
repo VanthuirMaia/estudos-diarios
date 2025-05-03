@@ -595,3 +595,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	IA - Refinando prompts e usando Agentes IA
     # Anotações 27/04/2025
     	Revisão do conteúdo visto durante a semana
+    # Anotações 02/05/2025
+    	Revisão do projeto Miroute - Atualizando endpoints e CRUDs
