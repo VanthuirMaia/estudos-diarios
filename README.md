@@ -599,3 +599,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Revisão do projeto Miroute - Atualizando endpoints e CRUDs
     # Anotações 03/05/2025
     	Adicionando nova Feature - CRUD Usuarios
+    # Anotações 04/05/2025
+    	Revisando o Painel_Miroute
