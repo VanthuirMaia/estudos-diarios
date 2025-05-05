@@ -601,3 +601,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Adicionando nova Feature - CRUD Usuarios
     # Anotações 04/05/2025
     	Revisando o Painel_Miroute
+    # Anotações 05/05/2025
+    	Reiniciando os estudos de Banco de dados (Visando aulas no Curso TDS - SENAC)
