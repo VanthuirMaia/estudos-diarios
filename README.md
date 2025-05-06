@@ -603,3 +603,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Revisando o Painel_Miroute
     # Anotações 05/05/2025
     	Reiniciando os estudos de Banco de dados (Visando aulas no Curso TDS - SENAC)
+    # Anotações 06/05/2025
+    	SQL - Jornada de dados - Transações ACID (Reiniciando a Jornada de Dados)
