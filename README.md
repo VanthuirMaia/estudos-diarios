@@ -607,3 +607,4 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL - Jornada de dados - Transações ACID (Reiniciando a Jornada de Dados)
     # Anotações 07/05/2025
     	SQL - UDEMY
+    		Atividade com 06 desafios. Todos realizados com sucesso
