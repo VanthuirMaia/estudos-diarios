@@ -608,3 +608,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     # Anotações 07/05/2025
     	SQL - UDEMY
     		Atividade com 06 desafios. Todos realizados com sucesso
+    # Anotações 08/05/2025
+    	SQL - UDEMY - Correção das atividades
