@@ -605,3 +605,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Reiniciando os estudos de Banco de dados (Visando aulas no Curso TDS - SENAC)
     # Anotações 06/05/2025
     	SQL - Jornada de dados - Transações ACID (Reiniciando a Jornada de Dados)
+    # Anotações 07/05/2025
+    	SQL - UDEMY
