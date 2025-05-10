@@ -611,3 +611,6 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     # Anotações 08/05/2025
     	SQL - UDEMY - Correção das atividades
     		Tabela Verdade
+    # Anotações 09/05/2025
+    	SQL - UDEMY
+    	SQL - Jornada de dados
