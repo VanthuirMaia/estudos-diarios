@@ -614,3 +614,6 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     # Anotações 09/05/2025
     	SQL - UDEMY
     	SQL - Jornada de dados
+    # Anotações 10/05/2025
+    	SQL - UDEMY
+    	SQL - Jornada de dados
