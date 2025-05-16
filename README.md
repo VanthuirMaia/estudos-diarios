@@ -621,5 +621,7 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL - Revisão
     # Anotações 12/05/2025
     	SQL - UDEMY
-    # Anotações 12/05/2025
+    # Anotações 14/05/2025
     	SQL / Python - Aula de integração entre Aplicação em Python e Banco MySQL (SENAC)
+    # Anotações 15/05/2025
+    	SQL Jornada de dados (B-Tree e Index)
