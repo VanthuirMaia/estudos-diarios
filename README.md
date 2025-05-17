@@ -625,3 +625,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL / Python - Aula de integração entre Aplicação em Python e Banco MySQL (SENAC)
     # Anotações 15/05/2025
     	SQL Jornada de dados (B-Tree e Index)
+    # Anotações 16/05/2025
+    	Atividades SQL Jornada de dados (B-Tree e Index)
