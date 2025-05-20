@@ -627,3 +627,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	SQL Jornada de dados (B-Tree e Index)
     # Anotações 16/05/2025
     	Atividades SQL Jornada de dados (B-Tree e Index)
+    # Anotações 19/05/2025
+    	SQL - UDEMY (Cardinalidade e Obrigatoriedade)
