@@ -629,3 +629,5 @@ _ Valores "Null" e "Undefined" \* Alterando valores das variáveis
     	Atividades SQL Jornada de dados (B-Tree e Index)
     # Anotações 19/05/2025
     	SQL - UDEMY (Cardinalidade e Obrigatoriedade)
+    # Anotações 20/05 a 10/7/2025
+    	Estudando Análise e Engenharia de Dados, e me dedicando aos estudos de Programação Web (Flask, HTML, CSS) e Versionamento (Git e Github) - Aplicando nas aulas de TDS no SENAC/PE.
